@@ -1,0 +1,45 @@
+{
+  "catalogVersion": 1,
+  "updatedAt": "2026-11-25",
+  "apps": [
+    {
+      "id": "yt-downloader",
+      "name": "YT Downloader",
+      "owner": "KFT",
+      "category": "tools",
+      "description": "動画ダウンロードツール",
+      "version": "1.0.0",
+      "sizeMB": 114,
+      "channel": "stable",
+      "imageText": "YT",
+      "downloadUrl": "https://example.com/releases/yt-downloader.zip",
+      "executable": "YTDownloader.exe"
+    },
+    {
+      "id": "twitter-downloader",
+      "name": "Twitter Downloader",
+      "owner": "KFT",
+      "category": "tools",
+      "description": "メディア保存ツール",
+      "version": "1.2.0",
+      "sizeMB": 144,
+      "channel": "BETA",
+      "imageText": "TW",
+      "downloadUrl": "https://example.com/releases/twitter-downloader.zip",
+      "executable": "TwitterDownloader.exe"
+    },
+    {
+      "id": "sample-game",
+      "name": "Sample Game",
+      "owner": "KFT",
+      "category": "game",
+      "description": "ゲームサンプル",
+      "version": "0.9.0",
+      "sizeMB": 520,
+      "channel": "DEV",
+      "imageText": "GAME",
+      "downloadUrl": "https://example.com/releases/sample-game.zip",
+      "executable": "SampleGame.exe"
+    }
+  ]
+}
