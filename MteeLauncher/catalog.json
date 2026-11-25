@@ -12,8 +12,8 @@
       "sizeMB": 114,
       "channel": "stable",
       "imageText": "YT",
-      "downloadUrl": "https://example.com/releases/yt-downloader.zip",
-      "executable": "YTDownloader.exe"
+      "downloadUrl": "https://github.com/m-t-2025-gth/lv_checker/releases/download/0.0.1/lv_check.zip",
+      "executable": "lv_check.exe"
     },
     {
       "id": "twitter-downloader",
