@@ -14,6 +14,19 @@
       "imageText": "YT",
       "downloadUrl": "https://github.com/m-t-2025-gth/lv_checker/releases/download/0.0.1/lv_check.zip",
       "executable": "lv_check.exe"
+    },
+    {
+      "id": "grab-n-shooter",
+      "name": "Grab'n'Shooter",
+      "owner": "KFT",
+      "category": "games",
+      "description": "動画ダウンロードツール",
+      "version": "1.0.0",
+      "sizeMB": 114,
+      "channel": "stable",
+      "imageText": "YT",
+      "downloadUrl": "https://github.com/m-t-2025-gth/lv_checker/releases/download/0.0.2/abc.zip",
+      "executable": "AT11C505_27_松岡翼.exe"
     }
   ]
 }
